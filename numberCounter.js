@@ -13,3 +13,5 @@ document.getElementById("increase").onclick = function () {
   count += 1;
   document.getElementById("numberCount").innerHTML = count;
 };
+
+console.log("Number generator");
